@@ -2,6 +2,7 @@ import poster1 from '../src/assets/images/news-posters/poster1.png'
 import poster2 from '../src/assets/images/news-posters/poster2.jpg'
 import poster3 from '../src/assets/images/news-posters/poster3.png'
 import poster4 from '../src/assets/images/news-posters/poster4.jpg'
+import poster0 from '../src/assets/images/news-posters/poster0.jpg'
 import n1i1 from '../src/assets/images/news-images/n1i1.png'
 import n1i2 from '../src/assets/images/news-images/n1i2.png'
 import n1i3 from '../src/assets/images/news-images/n1i3.jpg'
@@ -22,18 +23,10 @@ const NEWS_ITEMS = [
     slug: 'ar-vr-surge-into-the-mainstream-in-2026',
     content: [
       {
-        type: 'image',
-        src: news_image_1,
-      },
-      {
         type: 'paragraph',
         text: `The year 2026 has emerged as a landmark period for augmented reality (AR) and virtual reality (VR), marking the transition of immersive technologies from niche innovations to everyday tools. Rapid advancements in lightweight headsets, AI-powered spatial computing, improved display technology, and faster wireless connectivity have made AR and VR experiences more accessible than ever before. As device prices continue to decline and content ecosystems expand, consumers are increasingly adopting immersive technologies for work, education, entertainment, shopping, and communication. What was once considered futuristic is now becoming a practical part of daily life, transforming how people interact with both digital and physical environments.
 
 Businesses across multiple industries are embracing AR and VR to improve productivity and reduce operational costs. Manufacturing companies are using augmented reality to guide technicians through complex assembly and maintenance procedures, reducing errors and improving efficiency. In healthcare, virtual reality is revolutionizing medical training by allowing students and professionals to practice surgeries in realistic, risk-free environments. Hospitals are also exploring VR-based therapy to assist patients with rehabilitation, pain management, and mental health treatment. Architects and real estate developers are leveraging immersive 3D walkthroughs, enabling clients to explore buildings long before construction begins.`,
-      },
-      {
-        type: 'image',
-        src: news_image_2,
       },
       {
         type: 'paragraph',
