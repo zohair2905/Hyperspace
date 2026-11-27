@@ -19,7 +19,7 @@ const NEWS_ITEMS = [
     title: 'AR and VR Surge Into the Mainstream in 2026',
     excerpt:
       'Contrary to popular belief, adoption curves for spatial hardware have not just accelerated — they\u2019ve inverted. Here\u2019s what changed, and what it means for the field.',
-    thumbnail: poster1,
+    thumbnail: poster0,
     slug: 'ar-vr-surge-into-the-mainstream-in-2026',
     content: [
       {
